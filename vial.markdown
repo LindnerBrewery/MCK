@@ -5,11 +5,11 @@ permalink: /vial/
 has_children: false
 nav_order: 6
 ---
-vial在线地址：
+Vial Online URL:
 ~~~
 https://vial.rocks/
 ~~~
-vial软件下载地址
+Vial Software Download URL:
 ~~~
 https://get.vial.today/download/
 ~~~

@@ -6,4 +6,4 @@ has_children: false
 nav_order: 5
 ---
 
-# 关于我们
+# About & Contact
